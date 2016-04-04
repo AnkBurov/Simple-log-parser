@@ -1,0 +1,10 @@
+/.idea/
+/db/
+/logs/
+/target/
+/out/
+*.iml
+*.class
+*.mf
+*.bat
+*.jar
